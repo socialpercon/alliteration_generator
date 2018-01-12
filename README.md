@@ -10,7 +10,7 @@ A simple prototype for a program which finds alliterative phrases synonymous wit
 - The program offers the user a list of alliterative phrases synonymous with the input.
 
 
-**FUTURE FEATURES**
+**IN-PROGRESS FEATURES**
 
 - Handle inflections like tense and plurality
 - Add a GUI
