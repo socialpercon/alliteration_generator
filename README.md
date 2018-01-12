@@ -12,8 +12,8 @@ A simple prototype for a program which finds alliterative phrases synonymous wit
 
 **IN-PROGRESS FEATURES**
 
+- GUI
 - Handle inflections like tense and plurality
-- Add a GUI
 - Use WordNet as the source of synonyms rather than www.thesaurus.com
 - Allow users to select whether they want to include hyponyms in their results (for example, 'tree' could output 'elm') 
 
