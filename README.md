@@ -6,7 +6,7 @@ A simple prototype for a program which finds alliterative phrases synonymous wit
 
 - The user inputs a phrase of any length. (The program ignores stopwords like 'the', 'of', etc.)
 - The program visits www.thesaurus.com and gathers data in the form of html.
-- The program asks the user to disambiguate their input using disambiguations pulled from the html.
+- The program asks the user to disambiguate their input using synonyms pulled from the html.
 - The program offers the user a list of alliterative phrases synonymous with the input.
 
 
